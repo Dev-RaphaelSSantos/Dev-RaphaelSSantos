@@ -15,8 +15,7 @@ Este perfil reúne meus projetos pessoais, estudos e experimentos envolvendo ár
 - Projetos criativos
 - Estudos técnicos
 
-A proposta é documentar passo a passo de projetos incluindo o processo do meu P.I.
-
+A proposta é documentar passo a passo meus projetos, estudos e processos criativos.
 
 ## Projeto atual
 
@@ -34,7 +33,7 @@ O desenvolvimento será documentado ao longo do processo, incluindo:
 - Testes
 - Problemas e soluções
 - Evolução do projeto
-- Entre Outros
+- Entre outros
 
 ---
 
@@ -42,7 +41,11 @@ O desenvolvimento será documentado ao longo do processo, incluindo:
 
 Em breve.
 
+## Portfólio
+
+🌐 **Site:** https://dev-raphaelssantos.github.io/Portfolio/
+
 ## Acompanhe o processo
 
 **Instagram:** @devlogph  
-**TikTok:** @devlogph
+**TikTok:** @devlogph  
